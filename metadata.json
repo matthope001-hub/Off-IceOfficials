@@ -1,0 +1,5 @@
+{
+  "name": "IceDogs Off-Ice Officials Scheduler",
+  "description": "An application to schedule off-ice officials for Niagara IceDogs games. Officials can set their availability, and admins can assign roles for each game based on who is available.",
+  "requestFramePermissions": []
+}
